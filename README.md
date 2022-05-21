@@ -13,3 +13,5 @@ Cycling in Aberdeen [Oan_Yer_Bike](https://github.com/CodeTheCity/Oan_Yer_Bike)
 
 ### The Fediverse
 Explore options for creating communities in Mastadon and elsewhere.
+
+This project looked at the possiblity of better use of Fediverse platforms for CTC. We focused on Mastodon in particular. We identfied a gap in Mastodon for a "tech and data for civic good" / UK-level (?)community. It is suggested that we explore this further - perhaps at SODU session in Nov 2022 - to see what appetite exists for other organisations and individuals to join such a community. We also identified the opportunity for CTC to use Fediverse alternatives for Instagram and Youtube, and to create and maintain bots to post content (perhaps replicating content from existing platforms). We closed this project down before lunch Saturday, and members joined other teams. 
