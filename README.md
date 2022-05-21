@@ -9,7 +9,7 @@ We planned on enabling a hybrid event, but there were no online tickets, so it a
 [The OD Bods](https://github.com/CodeTheCity/the_od_bods) which started at CTC23 continues as an opportunity for the team to work together. You can see their progress at https://github.com/OpenDataScotland/the_od_bods/ which feeds the website at https://opendata.scot The goal this weekend was to automate the manual scripts.
 
 ### Oan Yer Bike
-Cycling in Aberdeen
+Cycling in Aberdeen [Oan_Yer_Bike](https://github.com/CodeTheCity/Oan_Yer_Bike)
 
 ### The Fediverse
 Explore options for creating communities in Mastadon and elsewhere.
